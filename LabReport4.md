@@ -39,7 +39,7 @@ To edit the file in the terminal we are going to use a built-in editor called na
 
 Keys Pressed: `<up> <up> <up> <enter>`, `<up> <up> <up> <enter>`
   
-Since we just ran the tests in [Step 6](https://github.com/Yshzi/LabReport4/edit/main/LabReport4.md#step-6-run-the-tests-demonstrating-that-they-fail) we can use the up arrow to get to our recent history to run the commands `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`, and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples`.
+Since we just ran the tests in [Step 6]([https://github.com/Yshzi/LabReport4/edit/main/LabReport4.md#step-6-run-the-tests-demonstrating-that-they-fail]) we can use the up arrow to get to our recent history to run the commands `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`, and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples`.
 
 ---
 ### Step 9: Commit and push the resulting change to your Github account
