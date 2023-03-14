@@ -33,6 +33,7 @@ By doing the first bash script edit.sh we clone the fork of the repositorym run 
 
 ### Step 8, and 9
 ![Capture](Capture.PNG)
+
 Now we run the other bash script test.sh using the command `bash test.sh` which runs the Junit tests again, git add, git commit, and git push to github so that our changes are saved to github. 
 
 
