@@ -1,4 +1,4 @@
-#Lab Report 5: Bash Scripting Lab Report 4
+# Lab Report 5: Bash Scripting Lab Report 4
 ## Introduction:
 Lab Report 4 required us to document all the commands that we did in lab to edit code and test its validity. In lab this was set up as a competition to see who could complete all the tasks the fastest. I really liked this lab and lab report because it makes the student go trough the process of thinking about the most efficient way to get the task done. While competing with others, I thought about how using a bash script might make the process even faster. So, we will now look into how to run the desired tasks in a bash script.
 ### Code Before:
