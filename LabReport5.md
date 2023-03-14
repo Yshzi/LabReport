@@ -32,7 +32,7 @@ Because we have to edit the file in order for it to work, we have to log into th
 By doing the first bash script edit.sh we clone the fork of the repositorym run the tests, and enter the code editor nano.  We run the script by using the command `bash edit.sh` All the commands will run and we have entered the nano editor. From there we have to do the key presses:  `<Ctrl-W> <ESC-B> <i> <enter> <right> <right> <right> <right> <right> <right> <backspace> <2> <Ctrl-O> <enter> <Ctrl-X>`. This will do a backwards search to look for the index1 that needs to be changed to index2. Then it will save the edit and then exit our of nano. Now we are halfway done.
 
 ### Step 8, and 9
-![Capture](Capture.png)
+![Capture](Capture.PNG)
 Now we run the other bash script test.sh using the command `bash test.sh` which runs the Junit tests again, git add, git commit, and git push to github so that our changes are saved to github. 
 
 
